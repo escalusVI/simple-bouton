@@ -1,0 +1,20 @@
+button{
+	background: linear-gradient(to bottom, #FEE94F, #FD9A0F);
+	padding: 10px;
+	font-size: 16px;
+	color: #333;
+	text-shadow: 1px 1px 4px white;
+	text-align: center;
+	border-radius: 5px;
+	border: 1px solid #FFAA22;
+	position: absolute;
+	left: 40%;
+	top: 40%;
+	
+	}
+
+button:active{
+    position: absolute;
+    top: 39%;
+
+}
